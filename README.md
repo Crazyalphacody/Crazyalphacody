@@ -7,7 +7,8 @@ My responsibility is to solve the complex problems and issues in designing, impl
 
 ### 👋 Full Stack developement
 - Javascript, TypeScript, React.js, Scalar, Angular.js, Angular, Node.js, Express
-- Python, Django, Flask, FastAPI Odoo
+- Python, Django, Flask, FastAPI Odoo![Uploading 68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3347596d6563757a346e634f632f67697068792e676966.gif…]()
+
 - Golang, Ruby, Ruby on Rails
 - REST API, Serverless API(GraphQL)
 - MongoDB, MySQL, PostgreSQL, MSSQL, DynamoDB
