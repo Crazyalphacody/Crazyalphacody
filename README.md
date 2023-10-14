@@ -3,7 +3,7 @@
 I am a senior software engineer in building high quality Full Stack / Machine Learning / Mobile app development solutions from scratch.
 My responsibility is to solve the complex problems and issues in designing, implementing and maintaining the Software Development. 
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/c1fd9835dc8a8303599f5bd9cd78cc944f284131655b73c76f83b0ba8a76b3a2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3347596d6563757a346e634f632f67697068792e676966" width="400" height="256" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="400" height="256" />
 
 ### 👋 Full Stack developement
 - Javascript, TypeScript, React.js, Scalar, Angular.js, Angular, Node.js, Express
