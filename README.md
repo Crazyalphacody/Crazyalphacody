@@ -3,9 +3,13 @@
 I am a senior software engineer in building high quality Full Stack / Machine Learning / Mobile app development solutions from scratch.
 My responsibility is to solve the complex problems and issues in designing, implementing and maintaining the Software Development. 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="400" height="256" />
+
 
 ### 👋 Full Stack developement
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="400" height="256" />
+
+
 - Javascript, TypeScript, React.js, Scalar, Angular.js, Angular, Node.js, Express
 - Python, Django, Flask, FastAPI Odoo
 - Golang, Ruby, Ruby on Rails
